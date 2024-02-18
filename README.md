@@ -52,11 +52,6 @@
 </html>
 
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Vaibhav-Kapase.visitor-badge)
-
-<img src="https://github-readme-stats.vercel.app/api?username=akash202k&show_icons=true&theme=dark"/>
-
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
