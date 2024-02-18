@@ -4,7 +4,7 @@
 <html>
 <div align="center">
    <h1>Hello!  I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h3 align="center"> DevOps♾️ | 3x AWS Certified | Azure DevOps | Kubernets | Terraform | Docker | MERN </h3>
+   <h3 align="center"> ♾️ DevOps | 3x AWS Certified | Azure DevOps | Kubernets | Terraform | Docker | MERN </h3>
 </div>
 </html>
 
