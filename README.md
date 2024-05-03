@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/akash202k/akash202k/blob/main/ln-bg.jpeg?raw=true)
+![Design and Development](https://github.com/akash202k/akash202k/blob/main/portfolio-bg.jpg?raw=true)
 
 
 <html>
