@@ -49,14 +49,16 @@
         <img src="https://github.com/akash202k/akash202k/blob/main/aws-practitioner.png?raw=true" width="150 px" height = "150px" >
      </a>
 
+## :shield:  Streak 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akash202k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> 
   
      
   </div>
-## :shield:  Streak 
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=akash202k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>  
+  
+ 
 
   
 </html>
