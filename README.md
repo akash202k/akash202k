@@ -48,12 +48,14 @@
   <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
         <img src="https://github.com/akash202k/akash202k/blob/main/aws-practitioner.png?raw=true" width="150 px" height = "150px" >
      </a>
+
+ <div align="right">
+  <img src="https://streak-stats.demolab.com?user=akash202k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>    
      
   </div>
 
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash202k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  
 </html>
 
 
