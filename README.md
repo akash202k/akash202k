@@ -50,10 +50,14 @@
      </a>
      
   </div>
+
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=akash202k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 </html>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
