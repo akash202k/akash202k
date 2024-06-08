@@ -58,13 +58,6 @@
      
   </div>
   
-<h3 align="left">My Contributions 🏆</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/akash202k/akash202k/output/snake.svg" alt="Snake animation" />
-
-### 
 
   
 </html>
