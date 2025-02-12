@@ -48,6 +48,9 @@
   <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
         <img src="https://github.com/akash202k/akash202k/blob/main/aws-practitioner.png?raw=true" width="150 px" height = "150px" >
      </a>
+  <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
+        <img src="https://github.com/akash202k/akash202k/blob/main/cka.png?raw=true" width="150 px" height = "150px" >
+     </a>
 
 ## :shield:  Streak 
 
