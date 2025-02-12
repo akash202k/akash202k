@@ -38,7 +38,9 @@
 <html>
 <div>
 
-
+  <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
+        <img src="https://github.com/akash202k/akash202k/blob/main/cka.png?raw=true" width="150 px" height = "150px" >
+     </a>
   <a href="https://www.credly.com/badges/57394c5f-f9b1-4d00-b9d8-1cea8707aab1/public_url">
         <img src="https://github.com/akash202k/akash202k/blob/main/aws-saa.png?raw=true" width="150 px" height = "150px" >
        </a>
@@ -48,9 +50,7 @@
   <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
         <img src="https://github.com/akash202k/akash202k/blob/main/aws-practitioner.png?raw=true" width="150 px" height = "150px" >
      </a>
-  <a href="https://www.credly.com/badges/6b0f7b19-37a5-41e9-b34f-3674fe769741/public_url">
-        <img src="https://github.com/akash202k/akash202k/blob/main/cka.png?raw=true" width="150 px" height = "150px" >
-     </a>
+
 
 ## :shield:  Streak 
 
